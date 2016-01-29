@@ -28,6 +28,9 @@
     NSString *strSystemName = currentDevice.systemName;//设备运行的系统
     NSString *strSystemVersion = currentDevice.systemVersion;//当前系统版本
     NSString *strUUIDString = currentDevice.identifierForVendor.UUIDString;//设备识别码
+    
+    
+    
     NSLog(@"设备名称：%@",strName);
     NSLog(@"设备类别：%@",strModel);
     NSLog(@"设备本地化版本：%@",strLocalizeModel);

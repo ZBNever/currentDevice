@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "30E559F02E30CA42F740DD5A78575F6598481682",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "30E559F02E30CA42F740DD5A78575F6598481682" : 0,
+    "4E1E247E4AEE4E44E0B642DDD52740906BC68592" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F72E61CD-5088-40D6-9C4F-069335125FEA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "30E559F02E30CA42F740DD5A78575F6598481682" : "%E8%AE%BE%E5%A4%87%E5%8F%B7\/",
+    "4E1E247E4AEE4E44E0B642DDD52740906BC68592" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "设备号",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "设备号.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZBNever\/currentDevice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30E559F02E30CA42F740DD5A78575F6598481682"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZBNever\/swiftDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E1E247E4AEE4E44E0B642DDD52740906BC68592"
+    }
+  ]
+}
